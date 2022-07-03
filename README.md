@@ -1,5 +1,9 @@
 # 7-Segment-Display-SyntaxLibrary
 
+
+Copy and Paste both "7SegDisplay.h" and "variables.h" files into your Arduino Sketch Folder
+
+
 Syntax:
 
 
